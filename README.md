@@ -2,7 +2,7 @@
 based on project from zx-pk.ru and ported to spartan 3AN, verilog
 
 pictures and story:
-https://vk.com/wall636130614_167
-https://vk.com/wall636130614_172
-https://vk.com/wall636130614_179
-https://vk.com/wall636130614_180
+https://vk.com/wall636130614_167<br>
+https://vk.com/wall636130614_172<br>
+https://vk.com/wall636130614_179<br>
+https://vk.com/wall636130614_180<br>
